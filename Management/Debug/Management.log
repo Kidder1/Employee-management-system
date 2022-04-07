@@ -1,7 +1,0 @@
-﻿  boss.cpp
-  managemenw_sys.cpp
-  employee.cpp
-  manager.cpp
-  wokerManager.cpp
-  正在生成代码...
-C:\Users\Administrator\Desktop\Management\Management\wokerManager.cpp(56): error C4700: 使用了未初始化的局部变量“departmentID”
